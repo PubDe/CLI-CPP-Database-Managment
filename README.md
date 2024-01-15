@@ -21,8 +21,7 @@ To use this system, you need to compile and run the C++ code. Make sure you have
 
 1. Complie this repository:
 
-   ```bash g++ main.cpp users.cpp -o student_management_system
-./student_management_system
+   `g++ main.cpp users.cpp -o student_management_system./student_management_system``bash 
 
 ## Acknowledgments
 - This code is a simple demonstration of a Student Management System and may not be suitable for production use.
